@@ -1,8 +1,12 @@
 ---
-permalink: /about/
+permalink: /
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hi👋 I’m a Unity Game Developer with over 5 years of experience. I graduated in System Analysis and Development in 2016. During this period I studied Computer Engineering in Canada for one year with a scholarship.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Currently, I’m working as a freelancer. Check the [Projects](./projects) page to see what I have worked on.
+
+I love what I do, and work to deliver great products and solutions. I’m always looking for new technologies and techniques that can bring something new or improve current processes.
+
+Lately, I’ve been learning how to play Dwarf Fortress and getting into science-fiction novels, starting with Dune. Also been practicing and expanding my knowledge with game design and experimenting with Unity DOTS.

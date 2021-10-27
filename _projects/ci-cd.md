@@ -10,9 +10,9 @@ sidebar:
     image_alt: "Jenkins logo"
     text: "Developer"
   - title: "Platforms"
-    text: "macOS, Windows"
+    text: "macOS, Linux, Windows"
   - title: "Tech"
-    text: "Unity, Jenkins, fastlane"
+    text: "Unity, Jenkins, fastlane, GitHub Actions"
 ---
 
-Implemented and developed processes, tools, documentation, and helped developers and teams to automate the process of building assets, Android and iOS builds, and publishing on the stores using custom declarative pipelines and scripts with Jenkins and Fastlane.
+Implemented and developed processes, tools, documentation, and helped developers and teams to automate the process of building Android and iOS apps, building assets, submitting builds for testing, and publishing on the stores using custom declarative pipelines and scripts with Jenkins, fastlane, and GitHub Actions.

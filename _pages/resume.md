@@ -15,7 +15,7 @@ Experienced Unity developer with games designed, developed, and published. Self-
 
 ### Freelance Unity Developer | 2020 - present
 - Architectural Visualization: Developed visualization of buildings with an iOS app and a companion app on a computer. The mobile app controls the computer app via the network. Visualization of units with dynamic data, floor plans, 3D amenities visualization with optimized lighting baked in Unity. All data is loaded dynamically for units, galleries, map, descriptions, video, etc.
-- CI & CD: Implemented and developed processes, tools, documentation, and helped developers and teams automating the process of building assets, Android and iOS builds, and publishing on the stores using custom declarative pipelines and scripts with Jenkins and Fastlane.
+- CI & CD: Implemented and developed processes, tools, documentation, and helped developers and teams to automate the process of building Android and iOS apps, building assets, submitting builds for testing, and publishing on the stores using custom declarative pipelines and scripts with Jenkins, fastlane, and GitHub Actions.
 
 ### Unity Developer at CreativeDrive | Florianópolis, Brazil | 2018 - 2019
 - Room Builder - iOS: Collaborated on the development of a 3D room builder with a catalog of products alongside a great depth of customization. Integrated services allow purchases directly from the app, scene persistence, and dynamically catalog updates. Implemented visualization of the room with AR.

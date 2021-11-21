@@ -40,4 +40,5 @@ The game has a RESTful web service developed in Java where the puzzles and analy
 A [WebGL version](https://dupyx.com/cube-filler/) is also available without some features. It's optimized for a small build size and fast loading. The intention was to convert players to the mobile version. The game is available in a wide range of gaming portals.
 {% include video id="at6EkW9QA1U" provider="youtube" caption="Game Trailer"%}
 {% include gallery %}
-![image-center](/assets/images/cube-filler/google-play-badge.png){: .align-center}
+
+[![Get it on Google Play](/assets/images/cube-filler/google-play-badge.png){:.align-center}](https://play.google.com/store/apps/details?id=com.dupyx.cbfiller){:target="_blank"}

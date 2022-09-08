@@ -3,7 +3,6 @@ title: "Everyday Simulator"
 excerpt: ""
 order: 8
 header:
-  #image: /assets/images/mesh-viewer/mv1.png
   teaser: assets/images/everyday-simulator/th.png
 sidebar:
   - title: "Role"
@@ -33,7 +32,7 @@ gallery:
 
 Wake up and get ready for work, don't be late!
 
-This game was developed under 48h during the [Global Game Jam 2016](https://v3.globalgamejam.org/2016/games/everyday-simulator-0).
+This game was developed under 48h during the [Global Game Jam 2016](https://globalgamejam.org/2016/games/everyday-simulator-0).
 
 <iframe src="https://itch.io/embed/52835?bg_color=222222&amp;fg_color=eeeeee&amp;border_color=363636" width="552" height="167" frameborder="0"><a href="https://elauer.itch.io/everyday-simulator">Everyday Simulator by Eduardo Lauer</a></iframe> 
 {% include gallery %}

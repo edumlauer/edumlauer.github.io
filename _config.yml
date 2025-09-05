@@ -20,8 +20,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   Self-driven developer with good analytical and problem solving skills.
   Design and develop solutions following good practices that deliver functional and reliable products.
   Constantly learning new technologies and methods to increase quality and efficiency.
-url: https://eduardolauer.com
-repository: "edumlauer/website"
+url: https://edumlauer.github.io
+baseurl: ""
+repository: "edumlauer/edumlauer.github.io"
 twitter_username: edumlauer
 github_username: edumlauer
 minimal_mistakes_skin: dark

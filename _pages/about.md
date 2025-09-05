@@ -3,7 +3,7 @@ permalink: /
 title: "About"
 ---
 
-Hi👋 I’m a Unity Game Developer with over 6 years of experience. Currently I’m working as a freelancer, check the [Projects](./projects) page to see what I have worked on.
+Hi 👋 I’m a Unity Game Developer with over 6 years of experience. Currently I’m working as a freelancer, check the [Projects](./projects) page to see what I have worked on.
 
 I love what I do, and I work to deliver great products and solutions. I’m always looking for new technologies and techniques that can bring something new or improve current processes.
 

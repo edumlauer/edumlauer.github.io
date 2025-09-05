@@ -9,22 +9,25 @@ This resume is also available for [download as PDF](/assets/EduardoLauerResume.p
 
 ## Summary
 
-Experienced Unity developer with games designed, developed, and published. Self-driven developer with good analytical and problem solving skills. Design and develop solutions following good practices that deliver functional and reliable products. Constantly learning new technologies and methods to increase quality and efficiency.
+Experienced Unity developer with a proven track record of designing, developing, and publishing games. Self-driven with strong analytical and problem-solving skills. Skilled at creating reliable solutions by following best practices, while continuously learning new technologies and methods to improve quality and efficiency.
 
 ## Experience
 
-### Freelance Unity Developer | 2020 - present
-- Architectural Visualization: Developed visualization of buildings with an iOS app and a companion app on a computer. The mobile app controls the computer app via the network. Visualization of units with dynamic data, floor plans, 3D amenities visualization with optimized lighting baked in Unity. All data is loaded dynamically for units, galleries, map, descriptions, video, etc.
-- CI & CD: Implemented and developed processes, tools, documentation, and helped developers and teams to automate the process of building Android and iOS apps, building assets, submitting builds for testing, and publishing on the stores using custom declarative pipelines and scripts with Jenkins, fastlane, and GitHub Actions.
+### Unity Developer at Snowman | Toronto, Canada | 2021 - present
+- Laya’s Horizon - Lucky Luna | iOS - Android: Integrated third-party services (accounts, saves, achievements, leaderboards) to enable seamless cross-platform play. Localized titles into 33 languages. Developed gameplay and UI systems. Optimized performance for stability across platforms. Collaborated on both released and unreleased projects with cross-disciplinary teams.
+
+### Freelance Unity Developer | 2020 - 2021
+- Architectural Visualization | iOS - Mac: Developed an interactive building visualization system with a networked iOS app controlling a companion Mac app. Implemented dynamic data loading (units, galleries, maps, descriptions, videos) for flexible content updates. Built optimized interactive floor plans and 3D amenities in Unity for smooth performance.
+- CI & CD: Designed and implemented CI/CD pipelines to automate Android and iOS app builds, asset generation, test distribution, and store publishing. Created custom declarative pipelines and scripts using Jenkins, Fastlane, and GitHub Actions. Wrote documentation and supported developers/teams to streamline workflows and reduce manual overhead.
 
 ### Unity Developer at CreativeDrive | Florianópolis, Brazil | 2018 - 2019
-- Room Builder - iOS: Collaborated on the development of a 3D room builder with a catalog of products alongside a great depth of customization. Integrated services allow purchases directly from the app, scene persistence, and dynamically catalog updates. Implemented visualization of the room with AR.
-- Mesh Viewer - WebGL: Developed and assisted the design of a tool for QA of 3D models. Users can inspect the model’s topology, UV mapping, materials, and other aspects. Annotations are created in the model and can be visualized by the modeler. Application is super lightweight and performant, makes use of glTF for importing 3D models at runtime.
-- Proactively developed and implemented CI and CD for the Unity Projects at CreativeDrive, saving developers time and ensuring deliverables of consistent quality.
+- Room Builder | iOS: Collaborated on the development of a 3D room builder with a product catalog offering extensive customization options. Integrated services for in-app purchases, scene persistence, and dynamic catalog updates. Implemented AR visualization for immersive room previews.
+- Mesh Viewer | WebGL: Designed and developed a lightweight tool for 3D model QA (topology, UVs, materials, etc.). Implemented annotation features and runtime glTF importing for high performance.
+- Built and implemented CI/CD pipelines for Unity projects at CreativeDrive, streamlining developer workflows and improving delivery speed and reliability.
 
 ### Independent / Freelance Unity Developer | 2017
-- Cube FIller - iOS - Android - WebGL: Designed and developed a puzzle game with a custom level editor that allows players to create and share puzzles. The game has a RESTful web service developed in Java where the puzzles and analytical data are persisted in a PostgreSQL database.
-- Arcade Basketball - Android: Developed an arcade basketball game for mobile devices with services integration.
+- Cube Filler | iOS - Android - WebGL: Designed and developed a cross-platform puzzle game with a custom level editor for creating and sharing puzzles. Built a Java RESTful service with PostgreSQL to store puzzles and analytics.
+- Arcade Basketball | Android: Developed a mobile arcade basketball game with third-party services.
 
 ## Education
 
